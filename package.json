@@ -1,0 +1,25 @@
+{
+  "name": "example-server",
+  "version": "1.0.0",
+  "description": "An example Express API server",
+  "keywords": [
+    "node",
+    "express",
+    "typescript"
+  ],
+  "homepage": "https://github.com/samoudomsouk/example-server#readme",
+  "bugs": {
+    "url": "https://github.com/samoudomsouk/example-server/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samoudomsouk/example-server.git"
+  },
+  "license": "MIT",
+  "author": "Sam Oudomsouk <samoudomsouk@gmail.com> (https://github.com/samoudomsouk)",
+  "type": "commonjs",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
